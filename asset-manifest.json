@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monimunozalzate/ClinicaOdontologicaReact/static/css/main.a6a2598d.css",
+    "main.js": "/monimunozalzate/ClinicaOdontologicaReact/static/js/main.638b7a3a.js",
+    "static/js/787.6f1d38b3.chunk.js": "/monimunozalzate/ClinicaOdontologicaReact/static/js/787.6f1d38b3.chunk.js",
+    "index.html": "/monimunozalzate/ClinicaOdontologicaReact/index.html",
+    "main.a6a2598d.css.map": "/monimunozalzate/ClinicaOdontologicaReact/static/css/main.a6a2598d.css.map",
+    "main.638b7a3a.js.map": "/monimunozalzate/ClinicaOdontologicaReact/static/js/main.638b7a3a.js.map",
+    "787.6f1d38b3.chunk.js.map": "/monimunozalzate/ClinicaOdontologicaReact/static/js/787.6f1d38b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a2598d.css",
+    "static/js/main.638b7a3a.js"
+  ]
+}
